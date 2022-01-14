@@ -3,4 +3,7 @@ Esta es la historia de Andree Mateo Narvaez Ortiz
 
 
 está aprendiendo cosas con platzi
+
+Hoy está en noveno semestre
+
 EOF
